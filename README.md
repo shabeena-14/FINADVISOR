@@ -79,6 +79,22 @@ FinAdvisor is an AI-powered assistant that offers clear, multilingual financial 
 * AI Model Generates Response
 * Response Delivered to User
 
+## 🖼️ Screenshots
+### 🔹 Setting up..
+![Setup & preview image](setup.jpg)
+### 🔹 Agent Instructions...
+![Agent Instructions](agent_instructions.jpeg)
+### 🔹 Quick Start Questions...
+![quick_start_questions](quick_start_questions.png)
+### 🔹 Tools used & Testing...
+![Tool Used & Testing](tool_testing.jpg)
+### 🔹 Deployment & Preview...
+![Deployment & Testing](deployed.jpeg)
+### 🔹 API References after Deployment...
+![api _references](links.jpeg)
+
+---
+
 ## Recordings(watch to build on your own)
 ▶️ [Building](https://youtu.be/oanWlnqpiP4)
 ▶️ [Testing & Deployment](https://youtu.be/SfwFLWpIVdk)
