@@ -91,7 +91,7 @@ FinAdvisor is an AI-powered assistant that offers clear, multilingual financial 
 ### 🔹 Deployment & Preview...
 ![Deployment & Testing](deployed.jpeg)
 ### 🔹 API References after Deployment...
-![api _references](links.jpeg)
+![api _references](LINKS.jpeg)
 
 ---
 
